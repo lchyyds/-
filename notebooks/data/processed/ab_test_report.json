@@ -1,0 +1,20 @@
+{
+  "experiment_name": "新用户优惠券A/B测试",
+  "start_date": "2025-06-05",
+  "test_groups": {
+    "A": "控制组（无优惠券）",
+    "B": "实验组（10元优惠券）"
+  },
+  "sample_sizes": {
+    "A": 206,
+    "B": 221
+  },
+  "conversion_rates": {
+    "A": 0.529126213592233,
+    "B": 0.5972850678733032
+  },
+  "statistical_significance": false,
+  "p_value": 0.18625893848946268,
+  "relative_lift": 0.12881398148532525,
+  "analysis_date": "2025-06-05 15:47:34"
+}

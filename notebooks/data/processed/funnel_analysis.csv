@@ -1,0 +1,5 @@
+step,step_name,user_count,conversion_rate,step_conversion_rate
+browse,浏览,10000,100.0,0.0
+cart,加购物车,9932,99.32,99.32
+order,下单,9045,90.45,91.06927104309304
+pay,支付,5246,52.459999999999994,57.998894416804866
